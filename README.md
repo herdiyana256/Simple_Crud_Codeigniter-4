@@ -1,4 +1,6 @@
 # CodeIgniter 4 Development
+![image](https://user-images.githubusercontent.com/82978131/222957096-c4f1998b-39ff-4e00-8549-5431a0c294f5.png)
+
 
 [![Build Status](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)](https://github.com/codeigniter4/CodeIgniter4/actions?query=workflow%3A%22PHPUnit%22)
 [![Coverage Status](https://coveralls.io/repos/github/codeigniter4/CodeIgniter4/badge.svg?branch=develop)](https://coveralls.io/github/codeigniter4/CodeIgniter4?branch=develop)
